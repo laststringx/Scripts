@@ -7,5 +7,6 @@ sonar.tests=.
 sonar.inclusions=**/test/java/servlet/createpage_junit.java
 sonar.test.exclusions=**/test/java/servlet/createpage_junit.java
 sonar.login=admin
-sonar.password=password
+sonar.password=admin
 
+58ca8414e02455c81ff258ed8325d9787c7e6480
